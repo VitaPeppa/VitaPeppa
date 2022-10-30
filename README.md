@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VitaTurtel
+- 👀 I’m interested in games and JS
+- 🌱 I’m currently learning JS, HTML and other things don't question
+- 💞️ I’m looking to collaborate on yes
+- 📫 How to reach me via Discord, Twitter, Telegram <--- @VitaTurtel
