@@ -7,5 +7,6 @@
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
 ### Reach out to me: 
-[Mail](mailto:me@imal.dev)
+[Mail](mailto:peppa@vitetokens.cc)
+<br>
 [Twitter](https://twitter.com/VitaTurtel)
