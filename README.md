@@ -7,7 +7,3 @@
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
 <br>
-### Reach out to me: 
-[Mail](mailto:peppa@vitetokens.cc)
-<br>
-[Twitter](https://twitter.com/VitaTurtel)
